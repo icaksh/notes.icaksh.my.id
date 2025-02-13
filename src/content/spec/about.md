@@ -1,9 +1,14 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
 
-::github{repo="saicaca/fuwari"}
+Hi, I'm [Palguno Wicaksono](https://icaksh.my.id), a software engineer from Indonesia. I'm passionate about web development, open source, and technology in general. I love to learn new things and share my knowledge with others. I created this blog to share my thoughts, ideas, and experiences with the world. I hope you find something useful here. Feel free to reach out to me if you have any questions or feedback.
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+- 💙 Static Programming Language
+- 🌱 Learning Computer Engineering
+- 📚 Studying Informatics and Computer Engineering
+- ✅ FreeBSD, Open Source, Linux
+- 🗣 Pronounce he/him
+- 🎵 City Pop, Jazz, Blues, Country, Ballad, Pop, Dangdut
+
+For more information about me, you can check out my [Personal Website](https://icaksh.my.id).
+
+<!-- ::github{repo="saicaca/fuwari"} -->
