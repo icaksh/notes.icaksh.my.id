@@ -51,4 +51,4 @@ Dell Optiplex 3050 is a good PC for Homelab. The price is cheap, and the perform
 
 My homelab build is enough for personal use. I can stream video, and cloud storage. The performance is good enough for me. I am happy with my homelab, and I have learned a lot from using it.
 
-
+`// END`

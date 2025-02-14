@@ -57,3 +57,5 @@ Today, when I write that article, I use FreeBSD 14.2-RELEASE on my local NAS sto
 For my daily driver, I use MacOS for its simplicity and ease of use. In fact, MacOS contains a little bit of FreeBSD code. So, I can say that I am still using FreeBSD, but in a different form 😄.
 
 >  I want to be a FreeBSD contributor, but I still have a lot to learn. I hope that I can contribute to the FreeBSD community in the future.
+
+`// END`
